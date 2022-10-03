@@ -4,6 +4,9 @@ This is practice repository
 I don't know how to use github. so now, I practice github.
 this is branch practice.
 
+github tutorial
+https://docs.github.com/en/get-started/quickstart/hello-world
+
 What is "Pull Request(PR)"?
 push is commit to remote repository(when not single project).
 pull is same "update" of svn.
